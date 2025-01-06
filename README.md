@@ -55,12 +55,12 @@ The following data files are used in the tests:
 - `fAttasAil1_pqrDot.asc`
 - `fAttasAilRud1.asc`
 - `fAttasAilRud1.mat`
-- `fAttasAilRud2.asc*`
+- `fAttasAilRud2.asc`
 - `fAttasAilRud2.mat`
-- `fAttasElv1.asc*`
+- `fAttasElv1.asc`
 - `fAttasElv1.mat`
 - `fAttasElv1_pqrDot.asc`
-- `fAttasElv2.asc*`
+- `fAttasElv2.asc`
 - `fAttasElv2.mat`
 - `fAttasRud1.mat`
 - `fAttasRud1_pqrDot.asc`
