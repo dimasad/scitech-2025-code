@@ -10,6 +10,13 @@ python 3.10+ and JAX/FLAX. The instructions below assume a Ubuntu 24.04 distro,
 possibly in WSL.
 
 
+Install dependencies
+--------------------
+
+```bash
+sudo apt install python3.12-venv git
+```
+
 Clone repository
 ----------------
 
@@ -20,15 +27,13 @@ git clone https://github.com/dimasad/scitech-2025-code.git
 cd scitech-2025-code
 ```
 
-
-Install dependencies
---------------------
+Setup Python Environment
+------------------------
 
 Install a suitable Python version, create a Python virtual environment, and 
 enter it.
 
 ```bash
-sudo apt install python3.12-venv
 python3.12 -m venv .venv
 . .venv/bin/activate
 ```
